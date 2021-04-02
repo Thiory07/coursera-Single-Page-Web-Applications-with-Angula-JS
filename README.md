@@ -1,1 +1,1 @@
-# coursera-Single-Page-Web-Applications-with-Angula-JS
+# Single Page Web Applications with AngularJS
